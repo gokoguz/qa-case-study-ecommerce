@@ -14,7 +14,7 @@ To design and implement a comprehensive QA process covering:
 - API validation
 - UI automation
 - Performance testing
-- Mobile responsiveness
+- Mobile responsiveness (Mobile testing was implemented via responsive web testing using Chrome DevTools device emulation.)
 
 ---
 
