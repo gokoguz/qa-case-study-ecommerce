@@ -66,7 +66,7 @@ Covers:
 ---
 
 ### Performance Testing
-https://github.com/gokoguz/jmeter-performance-tests
+https://github.com/gokoguz/jmeter-api-performance
 
 Covers:
 - Load, Stress, Spike testing
@@ -75,7 +75,7 @@ Covers:
 ---
 
 ### Mobile Testing (Responsive)
-https://github.com/gokoguz/responsive_automation
+https://github.com/gokoguz/responsive_web_automation
 
 Covers:
 - Different screen resolutions
